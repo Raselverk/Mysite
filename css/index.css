@@ -1,0 +1,13 @@
+
+<link rel="stylesheet" href="css/index.css">
+h1{
+    color: red;
+    font-size: 6em;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.my_photo{
+    width: 60px;
+    height: 20px;
+}
