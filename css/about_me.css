@@ -1,0 +1,14 @@
+#about_me {
+    display: grid;
+    grid-template-columns: 480px 480px;
+    margin-top: 40px;
+    margin-bottom: -21px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#about_me p {
+    font-size: 28px;
+}
+#about_me h2 {
+    font-size: 32px;
+}
